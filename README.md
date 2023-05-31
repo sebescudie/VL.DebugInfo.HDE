@@ -1,6 +1,6 @@
 # VL.DebugInfo.HDE
 
-A vvvv gamma editor extension that displays relevant debug info to provide if you're asking for help. It can also stuff that information in your clipboard with a simple click for supereasy sharing.
+ A vvvv gamma editor extension that displays relevant debug information and allows to share them easily.
 
 ## Installation
 
@@ -14,7 +14,7 @@ For more information on how to install nugets, have a look at [this section](htt
 
 ## Usage
 
-Once installed, press <kbd>ALT</kbd> + <kbd>D</kbd> to open the _Debug Info_ window. Press <kbd>CTRL</kbd>kbd> + <kbd>C</kbd> to copy all information as Markdown, or <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>C</kbd> to format them for a [forum](https://discourse.vvvv.org/) post.
+Once installed, press <kbd>ALT</kbd> + <kbd>D</kbd> to open the _Debug Info_ window. Press <kbd>CTRL</kbd> + <kbd>C</kbd> to copy all information as Markdown, or <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>C</kbd> to format them for a [forum](https://discourse.vvvv.org/) post.
 
 ## Credits
 
