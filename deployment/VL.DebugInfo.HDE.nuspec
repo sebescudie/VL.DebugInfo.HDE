@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>VL.DebugInfo.HDE</id>
+    <version>1.0.0</version>
+    <title>VL.DebugInfo.HDE</title>
+    <authors>sebescudie</authors>
+    <owners>sebescudie</owners>
+    <projectUrl>https://github.com/sebescudie/VL.DebugInfo.HDE</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>An editor extension that provides relevent debug info and allows to share it easily</summary>
+    <description>An editor extension that provides relevent debug info and allows to share it easily</description>
+    <copyright>Copyright © 2023 by sebescudie</copyright>
+    <tags>VL, debug</tags>
+	<license type="expression">LGPL-3.0-only</license>
+    <dependencies>
+      <dependency id="Grynwald.MarkdownGenerator" version="3.0.106" />
+      <dependency id="Hardware.Info" version="11.1.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\*.vl" target="" exclude="" />
+  </files>
+</package>
