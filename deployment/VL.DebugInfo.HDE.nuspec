@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>VL.DebugInfo.HDE</id>
-    <version>1.0.0</version>
+    <version>1.0.0-preview01</version>
     <title>VL.DebugInfo.HDE</title>
     <authors>sebescudie</authors>
     <owners>sebescudie</owners>
