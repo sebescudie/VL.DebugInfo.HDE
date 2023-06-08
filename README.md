@@ -2,6 +2,10 @@
 
  A vvvv gamma editor extension that displays relevant debug information and allows to share them easily.
 
+<p align="center">
+<img src="capture.png" title="" alt="GitHub Logo" width="259">
+</p>
+
 ## Installation
 
 Go to vvvv gamma's command line and type
