@@ -11,7 +11,7 @@
 Go to vvvv gamma's command line and type
 
 ```
-nuget install VL.DebugInfo.HDE
+nuget install VL.DebugInfo.HDE -pre
 ```
 
 For more information on how to install nugets, have a look at [this section](https://thegraybook.vvvv.org/reference/hde/managing-nugets.html#installing-the-latest-version-of-a-nuget) from the Gray Book.
