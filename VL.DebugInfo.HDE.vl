@@ -2710,7 +2710,7 @@
                 <Choice Kind="ProcessAppFlag" Name="MdHeader" />
               </p:NodeReference>
               <Pin Id="InrrGvPsS68MR9GwNobfSO" Name="Level" Kind="InputPin" DefaultValue="2" />
-              <Pin Id="NrPh3xRzB8fP7nv8DmMUDQ" Name="Text" Kind="InputPin" DefaultValue="Video Controlers" />
+              <Pin Id="NrPh3xRzB8fP7nv8DmMUDQ" Name="Text" Kind="InputPin" DefaultValue="Video Controllers" />
               <Pin Id="D09Tdw5tclALJHXsrXmX6w" Name="Output" Kind="OutputPin" />
             </Node>
             <Node Bounds="1084,833,168,19" Id="EgIwl1iNHkWL1EkalCgD0m">
